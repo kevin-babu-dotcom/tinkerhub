@@ -9,7 +9,7 @@ body{
     }
     .secondDiv{
     background-color: chartreuse;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
     display: flex;
     }
