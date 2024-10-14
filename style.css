@@ -1,0 +1,29 @@
+
+body{
+    background-color: blue;
+    color: blueviolet;}
+    h1{
+        color: aliceblue;
+    font-style: italic;
+    text-align: center;  
+    }
+    .secondDiv{
+    background-color: chartreuse;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    }
+button{
+    margin: 5px;
+    padding: 5px ;
+    cursor: pointer;
+    margin-top: 6px;
+    margin-bottom: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 3px dotted aqua;
+    }
+    button:hover{background-color: black;
+        color: aqua;
+
+    }
